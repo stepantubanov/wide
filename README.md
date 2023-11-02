@@ -1,5 +1,7 @@
 ## README
 
+NOTE: Contains unsound unsafe code due to out of bounds reads.
+
 Arithmetic operations on wider than native integer types (256 bit and more).
 
 Current Status: Work In Progress.
